@@ -1,6 +1,6 @@
 {
   "name": "Data-Commons",
   "tagline": "",
-  "body": "###Data Commons Community.\r\nData commons community is a group of individuals and volunteers.Our goal is to provide a rich data library in Big Data world. We are currently impressed by Apache Spark and want to build tools around it.\r\n### Products\r\nA set of libraries which are designed for data cleaning, quality checks and providing useful insights to data.\r\nOur core project prep-buddy which a library for cleaning, transforming and executing other preparation tasks for large datasets on Apache Spark.\r\n\r\n### Support or Contact\r\nCatch up with us at our google group data-commons-toolchain@googlegroups.com\r\n",
+  "body": "### The Data Commons Community\r\nData commons community is a group of data engineers and data scientists. Our goal is to provide a collection of rich, high-performance libraries to process data at scale. We are currently building these tools to work with Apache Spark.\r\n\r\n### Products\r\nA set of libraries which are designed for data cleaning, quality checks and providing useful insights to data.\r\nOur core project prep-buddy which a library for cleaning, transforming and executing other preparation tasks for large datasets on Apache Spark.\r\n\r\n### Support or Contact\r\nCatch up with us at our google group data-commons-toolchain@googlegroups.com\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
